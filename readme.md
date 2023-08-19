@@ -1,0 +1,1 @@
+This is a simple code for hash table with open hash in C language.
